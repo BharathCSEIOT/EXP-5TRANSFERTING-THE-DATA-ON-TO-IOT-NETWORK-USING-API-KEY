@@ -1,8 +1,11 @@
 ## EXPERIMENT-05-TRANSFERRING-DATA-TO-IOT-NETWORK-USING-API-KEY
-## NAME: Bharath K
-## REGISTER NUMBER: 212222110006
-## DEPARTMENT: CSE(IOT)
-## YEAR: 3rd year
+NAME: BHARATH K
+
+REGISTER NUMBER: 212222110006
+
+DEPARTMENT: CSE(IOT)
+
+YEAR: 3rd year
 ## Aim:
 To transfer sensor data to an IoT platform (ThingSpeak) using an API key.
 
